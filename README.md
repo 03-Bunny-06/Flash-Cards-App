@@ -26,7 +26,7 @@ How to Use:
 2. Follow the prompts to create, display, or test flashcards.
 3. Exit the program when finished.
 
-<r/>
+<hr/>
 
 Requirements:
 
