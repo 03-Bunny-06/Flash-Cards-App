@@ -10,17 +10,23 @@ The Flash Cards App is an interactive command-line tool for learning and testing
 4. Exit the Application: Safely exit the Flash Cards App when done.
 This app is beginner-friendly, simple to use, and serves as a great tool for revising concepts.
 
+<hr/>
+
 Key Features:
 
 * Add, view, and manage flashcards interactively.
 * Test yourself with randomized questions from the flashcard set.
 *  Clear and intuitive user interface within the terminal.
 
+<hr/>
+
 How to Use:
 
 1. Run the program using Python.
 2. Follow the prompts to create, display, or test flashcards.
 3. Exit the program when finished.
+
+<r/>
 
 Requirements:
 
